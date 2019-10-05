@@ -1,7 +1,5 @@
 """
 Util functions for S3
-© Aranti.ai
-Author: Prasad Ostwal
 """
 
 from .config import *
